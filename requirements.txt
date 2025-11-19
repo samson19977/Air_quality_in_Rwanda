@@ -1,0 +1,10 @@
+altair
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
+tensorflow
+statsmodels
+requests
